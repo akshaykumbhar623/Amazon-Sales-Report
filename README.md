@@ -50,5 +50,5 @@ Power BI
 Data Cleaning & Transformation
 Data Visualization
 
-![Amazon Sales Dashboard]()
+![Amazon Sales Dashboard](https://raw.githubusercontent.com/akshaykumbhar623/Amazon-Sales-Report/refs/heads/main/Amazon%20project.JPG)
 
