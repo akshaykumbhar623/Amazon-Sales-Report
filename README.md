@@ -50,8 +50,5 @@ Power BI
 Data Cleaning & Transformation
 Data Visualization
 
-![Amazon Sales Dashboard](amazon_dashboard.jpg)
+![Amazon Sales Dashboard]()
 
-KPI Design
-
-Business Insight Generation
